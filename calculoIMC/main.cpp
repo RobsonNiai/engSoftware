@@ -16,7 +16,7 @@ int main()
     cout<<""<<endl;
     IMC = peso / (altura*altura);
 
-    cout << "Seu IMC é: " << IMC << endl;
+    cout << "Seu IMC é: | " << IMC << endl;
 
     return 0;
 }
